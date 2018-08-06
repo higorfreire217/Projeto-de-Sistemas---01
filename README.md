@@ -1,3 +1,16 @@
+# Fork e pull request.
+
+Para criar um clone desse repositório no Github, por favor, clique em Fork (voce vai precisar de [uma conta aqui](http://www.github.com) e do [git instalado na maquina](https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git)).
+![Fork do projeto](assets/GIT01.png)
+
+Depois basta clonar seu repositório usando git clone
+![Fork do projeto](assets/GIT02.png)
+
+Fica algo parecido com isso:
+
+`git clone https://github.com/*sua_conta*/Projeto-de-Sistemas---01.git`
+
+Pronto!
 
 ## Herança, Composição, Encapsulamento e Polimorfismo
 
